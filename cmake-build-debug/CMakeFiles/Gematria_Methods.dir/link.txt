@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Gematria_Methods.dir/main.cpp.o  -o Gematria_Methods 
